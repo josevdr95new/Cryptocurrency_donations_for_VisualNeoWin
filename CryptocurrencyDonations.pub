@@ -1,5 +1,5 @@
 NBW Publication Source File
-(C)2021 SinLios
+(C)2016 NeoSoft Corp.
 Title=Cryptocurrency Donations Sample
 Author=josevdr95
 Language=US
@@ -14,7 +14,6 @@ WindowStyle=0
 WindowOrder=0
 WindowPos=0
 WindowProps=31
-HideFromTaskbar=No
 BiDiMode=0
 UseUpdateTimer=Yes
 ReturnTime=60
@@ -31,7 +30,6 @@ FilesIncluded=1
 FontsIncluded=2
 FontsToCompile=|
 CopyExternalFiles=No
-RenameExternalFiles=No
 SetupMedia=3
 SetupInstDir=C:\MyProgram
 SetupTitle=Setup
